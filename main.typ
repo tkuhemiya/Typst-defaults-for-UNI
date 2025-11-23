@@ -1,9 +1,8 @@
 
 #import "template.typ": *
 
-#import "chapters/coverPage.typ": cover-page
-#show: cover-page.with(name: "Themiya Deematha")
-
+#show: cover_page.with(name: "Themiya Deematha")
+#show: template
 
 
 = Title1
